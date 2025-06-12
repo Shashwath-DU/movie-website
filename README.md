@@ -5,7 +5,7 @@ This is a full-stack movie application built using **React** for the frontend an
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 root/
 ├── movies/ # Spring Boot Backend
 │ ├── src/
@@ -28,9 +28,9 @@ root/
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
-### ✅ Frontend (React)
+###  Frontend (React)
 
 - React.js + Vite
 - React Router
@@ -39,7 +39,7 @@ root/
 - Axios
 - FontAwesome + MUI
 
-### ✅ Backend (Spring Boot)
+###  Backend (Spring Boot)
 
 - Spring Boot
 - REST APIs (Spring Web)
