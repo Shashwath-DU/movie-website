@@ -1,4 +1,4 @@
-#  Full Stack Movie App (React + Spring Boot)
+#  Full Stack Movie App (React + Spring Boot + MongoDb)
 
 This is a full-stack movie application built using **React** for the frontend and 
 **Spring Boot** for the backend. It allows users to browse movies, watch trailers via YouTube, and leave reviews.
